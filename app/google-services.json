@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374334251191",
+    "project_id": "weathery-ab20d",
+    "storage_bucket": "weathery-ab20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374334251191:android:cafb7c3fadd322d21ded32",
+        "android_client_info": {
+          "package_name": "com.example.weathery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrEJlvMn0XJQYpm_EOqqlfWGQc0tZH2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
